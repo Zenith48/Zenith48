@@ -2,7 +2,7 @@
 - 🚴 I like cycling
 - 🌱 I'm currently learn CSS
 - ⌨️ I'm new to programming
-- 🔎 If yo want to reach me⬇️
+
 
 
 
