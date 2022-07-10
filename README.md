@@ -3,7 +3,7 @@
 - 🌱 I'm currently learn CSS
 - ⌨️ I'm new to programming
 - 🔎 If yo want to reach me⬇️
-- Instagram: https://www.instagram.com/ag.f04/   Discord: Zenith#3628
+
 
 
 <!---
