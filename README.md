@@ -1,6 +1,6 @@
 👋 Hi, I'm Zenith!<hr>
 - 🚴 I like cycling
-- 🌱 I'm currently learn CSS
+- 🌱 I'm currently learn python
 - ⌨️ I'm new to programming
 
 
