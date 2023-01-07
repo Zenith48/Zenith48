@@ -1,7 +1,10 @@
 👋 Hi, I'm Zenith!<hr>
 - 🚴 I like cycling
 - 🌱 I'm currently learn python
-- ⌨️ I'm new to programming
+- ⌨️ I'm new to programming<br>
+- 🔍 Reach me:<p>https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=wll-v7hSRG2q2iD_UOKrIQ&utm_source=copy-link</p>
+- 
+
 
 
 
