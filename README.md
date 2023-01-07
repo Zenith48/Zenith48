@@ -5,6 +5,7 @@
 - 🔍 Reach me!<br>
  Spotify: https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=wll-v7hSRG2q2iD_UOKrIQ&utm_source=copy-link<br>
  Instagram: https://www.instagram.com/ag.f04/
+ Discord: Khendjer#5715
 
 
 
