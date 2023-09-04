@@ -22,7 +22,7 @@
       -📚 Student in Forensic Computing Engineering (Fırat University)
      </p>
      <p>
-      -🔎 Reach me <a href="(https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=c03bf85db6404466)https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=c03bf85db6404466">🟢Spotify</a> and <a href="https://www.instagram.com/alt.f04/">Instagram</a>
+      -🔎 Reach me <a href="(https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=c03bf85db6404466)https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=c03bf85db6404466">Spotify</a> and <a href="https://www.instagram.com/alt.f04/">Instagram</a>
      </p>
     <hr>
 </body>
