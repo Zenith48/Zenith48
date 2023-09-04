@@ -1,10 +1,13 @@
-👋 Hi, I'm Zenith!<hr>
+👋 Hi, I'm Zenith!
+<hr>
 - 🚴 I like cycling
 - 🌱 I'm currently learn python, javascript and Html&Css
 - ⌨️ I'm new to programming
+- 📚 Student in forensic computing engineering
 - 🔍 Reach me
  [Spotify](https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=wll-v7hSRG2q2iD_UOKrIQ&utm_source=copy-link) &
- [Instagram](https://www.instagram.com/ag.f04/)<hr>
+ [Instagram](https://www.instagram.com/ag.f04/)
+<hr>
 
 
 
