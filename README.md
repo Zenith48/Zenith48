@@ -10,19 +10,20 @@
     <hr>
     <div>
      <p>
-      I like cycling
+      -🚴‍♂️ I like cycling
      </p>
      <p>
-      I'm new to programming
+      -⌨ I'm new to programming
      </p>
      <p>
-      I'm currently learn Python, Javascript and HTML&Css
+      -🌼 I'm currently learn Python, Javascript and HTML&Css
      </p>
      <p>
-      Student in Forensic Computing Engineering (Fırat University)
+      -📚 Student in Forensic Computing Engineering (Fırat University)
      </p>
      <p>
-      Reach me <a href="(https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=c03bf85db6404466)https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=c03bf85db6404466">🟢Spotify</a> and <a href="https://www.instagram.com/alt.f04/">Instagram</a>
+      -🔎 Reach me <a href="(https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=c03bf85db6404466)https://open.spotify.com/user/9szkz6uljafriuut3ej66h1qc?si=c03bf85db6404466">🟢Spotify</a> and <a href="https://www.instagram.com/alt.f04/">Instagram</a>
      </p>
+    <hr>
 </body>
 </html>
