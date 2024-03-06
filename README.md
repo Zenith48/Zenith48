@@ -1,7 +1,4 @@
 
-![Uploading b4e025ad3c438974a06ca3a51abdfc0e.gif…]()
-
-
 
 <h1 align="center">Hi 👋, I'm Agit F</h1>
 <h3 align="center">Frontend developer & Digital forensic student</h3>
